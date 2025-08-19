@@ -31,8 +31,7 @@ multilingual-translation/
 │   └── finetune_nllb_lora.py  # Fine-tuning script
 ├── evaluation/
 │   └── evaluate_bleu.py       # BLEU score evaluation
-├── requirements.txt           # Dependencies
-├── Dockerfile                 # For containerization
+├── requirements.txt           # Dependencies                
 └── README.md                  # Documentation
 ```
 
@@ -73,7 +72,7 @@ The app will be available at:
 ## ☁️ Deployment
 
 * **GitHub Repo:** [Multilingual Translation](https://github.com/kiran280321/multilingual-translation)
-* **Live Demo:** [Streamlit Cloud App](https://multilingual-translation.streamlit.app)
+* **Deployment link:** [Streamlit Cloud App](https://multilingual-translation-eyv9xezcq5wutexjnnndmq.streamlit.app/)
 
 ---
 
