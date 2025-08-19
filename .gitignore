@@ -1,3 +1,4 @@
 checkpoints/
 *.pt
 *.safetensors
+fine_tuned_en_de/model.safetensors
